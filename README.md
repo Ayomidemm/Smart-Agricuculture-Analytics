@@ -1,7 +1,6 @@
 # 🌾 Smart Agriculture Analytics: From Sensors To Harvest
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge)
 ![IoT Analytics](https://img.shields.io/badge/IoT_Analytics-00599C?style=for-the-badge)
 ![Smart Farming](https://img.shields.io/badge/Smart_Farming-27AE60?style=for-the-badge)
 
